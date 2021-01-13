@@ -5,3 +5,10 @@
 <h1>One more devops test</h1>
 <h2>Final test from other node </h2>
 <h1>Git test</h1>
+<center>
+         <h1>Display Current Date & Time</h1>
+      </center>
+      <%
+         Date date = new Date();
+         out.print( "<h2 align = \"center\">" +date.toString()+"</h2>");
+      %>
