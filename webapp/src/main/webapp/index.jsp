@@ -14,6 +14,6 @@
          out.print( "<h2 align = \"center\">" +date.toString()+"</h2>");
       %>
 
-       <h1>Welcome to DevOps</h2>
+      <center> <h1>Welcome to DevOps</h2></center>
    </body>
 </html>
