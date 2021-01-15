@@ -15,5 +15,9 @@
       %>
 
       <center> <h1>Welcome to DevOps World</h2></center>
+	<center>
+		<h1>This is a sample DevOps projects</h1>
+	</center>
+
    </body>
 </html>
