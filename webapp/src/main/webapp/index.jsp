@@ -20,11 +20,6 @@
 		<h2>DevOps project - Testing Automation</h1>
 	</center>
 
-	<center>
-		<h1>
-		<text-color="red"> Welcome to the world of DevOps</text-color>
-		</h1>
-	</center>
 	
 
    </body>
