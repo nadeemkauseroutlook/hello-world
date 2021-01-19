@@ -19,6 +19,9 @@
 		<h1>This is a sample DevOps projects</h1>
 		<h2>DevOps project - Testing Automation-01192020</h1>
 	</center>
+	<center>
+		<h1>DevOps deploy to tomcat is success</h1>
+	</center>
 
 	
 
