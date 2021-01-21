@@ -22,7 +22,6 @@
 	<center>
 		<h1>DevOps deploy to tomcat is success</h1>
 		<h1>Thrusday - 20210121</h1>
-		<H2> sHOT 2</H2>
 	</center>
 
 	
