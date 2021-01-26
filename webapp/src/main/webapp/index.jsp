@@ -32,6 +32,8 @@
         <font color="#F0B27A" size="9" >    
             WELCOME TO WEB PAGE<br/>    
     </font>    
+<h1>Test</h1>
+
     SIMPLE WEB PAGE     
     </h1>    
     <h3 align="center">    
