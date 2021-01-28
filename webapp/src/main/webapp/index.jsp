@@ -5,7 +5,7 @@
     <title>www.vijayakumar.com</title>    
 </head>    
 <font color="#A6ACAF" size="5">    
-    <marquee><b><i>THANKS FOR WATCHING</i></b></marquee>    
+    <marquee><b><i>THANKS FOR WATCHING DevOps Process</i></b></marquee>    
 </font>    
 <body link="white" alink="blue" vlink="#F8F8FF" > 
     <br />    
